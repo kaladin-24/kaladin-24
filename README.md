@@ -10,7 +10,7 @@ I'm @kaladin-24, and welcome to my GitHub profile! 🚀
 
 ## Get in Touch
 
-📫 Connect with me on [Twitter](https://twitter.com/essse_vmw)
+📫 Connect with me on [Twitter](https://twitter.com/esse_windrunner)
 
 ## Contributions
 
