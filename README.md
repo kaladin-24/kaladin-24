@@ -14,7 +14,7 @@ I'm @kaladin-24, and welcome to my GitHub profile! 🚀
 
 ## Contributions
 
-My repositories are a work in progress but eel free to explore and maybe contribute. I welcome feedback and collaboration!
+My repositories are a work in progress but feel free to explore and maybe contribute. I welcome feedback and collaboration!
 
 
 
