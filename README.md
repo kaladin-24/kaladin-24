@@ -1,7 +1,21 @@
-👋 Hi, I’m @kaladin-24
-👀 I’m passionate about leveraging automation for streamlined infrastructure management, with a focus on creating Ansible playbooks and Terraform scripts for comprehensive infrastructure as code solutions.
-🌱 I’m currently immersed in the world of Python coding, enhancing my skills to complement the automation journey.
-📫 How to reach me: @Esse_Windrunner on [Twitter](https://twitter.com/Esse_Windrunner)
+# Hi there! 👋
+
+I'm @kaladin-24, and welcome to my GitHub profile! 🚀
+
+## About Me
+
+- 👀 I’m passionate about leveraging automation for streamlined infrastructure management.
+- 🌱 Currently diving into Python coding to enhance my automation skills.
+- 💡 Exploring Ansible playbooks and Terraform scripts for comprehensive infrastructure as code solutions.
+
+## Get in Touch
+
+📫 Connect with me on [Twitter](https://twitter.com/essse_vmw)
+
+## Contributions
+
+My repositories are a work in progress but eel free to explore and maybe contribute. I welcome feedback and collaboration!
+
 
 
 
